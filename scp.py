@@ -9,3 +9,8 @@ cisco = {
     "password": "cisco"
 }
 
+source_file = "file_src"
+dest_file = "file_dst"
+direction = "put"
+
+
